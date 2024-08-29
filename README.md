@@ -1,6 +1,6 @@
 # Conway's Game of Life - C++ Implementation
 
-This is my implementation of Conway's Game of Life, a cellular automaton, written in C++. The program simulates the evolution of a grid of cells based on a set of rules.
+This is my implementation of Conway's Game of Life, a cellular automaton, written in C++ and using the raylib library. The program simulates the evolution of a grid of cells based on a set of rules.
 
 ## Features
 - Configurable grid size
